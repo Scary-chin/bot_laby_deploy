@@ -231,7 +231,7 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run('NDM0MzcxODg2MDc2NjU3NjY1.DbJc8g.oT4SYkrhmHF7xxIutjm_lBSbwF0')
+client.run('NDMzMzMwMzYyMzY2Njg5Mjk0.DbLFaQ.VQgyLzT_qLGL9Yd-MLSqckPLfi0')
 
 
 
