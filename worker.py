@@ -46,7 +46,7 @@ def check(s,new):
 
 
 def clear(pseudo):
-    print(L)
+    #print(L)
 
     for i in range(len(L)):
         if L[i][0]==pseudo:
